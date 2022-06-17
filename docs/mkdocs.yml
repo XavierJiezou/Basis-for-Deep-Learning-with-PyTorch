@@ -14,14 +14,12 @@ remote_name: origin
 nav:
     - Home: index.md
     - About: about.md
+    - Api: api.md
 ## Build directories
 theme:
-    name: material
-    icon: 
-        logo: favicon.ico # readthedocs
-    # palette:
-    #     primary: black
-    #     accent: deep orange
+    name: material # readthedocs
+    favicon: image/favicon.ico
+    logo: image/favicon.ico
     language: zh
 docs_dir: source
 site_dir: site
