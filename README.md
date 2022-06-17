@@ -45,5 +45,3 @@ make html
 ```bash
 sphinx-autobuild source build/html
 ```
-
-
