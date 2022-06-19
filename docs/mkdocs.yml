@@ -11,10 +11,10 @@ copyright: 2022, Xavier Jiezou
 remote_branch: gh-pages
 remote_name: origin
 ## Documentation layout
-nav:
-    - Home: index.md
-    - About: about.md
-    - Api: api.md
+# nav:
+#     - Home: index.md
+#     - About: about.md
+#     - Api: api.md
 ## Build directories
 theme:
     name: material # readthedocs
